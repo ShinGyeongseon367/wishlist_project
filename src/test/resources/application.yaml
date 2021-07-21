@@ -1,0 +1,19 @@
+server.port=8080
+
+naver.url.search.local=https://openapi.naver.com/v1/search/local.json
+naver.url.search.iamge=https://openapi.naver.com/v1/search/image
+
+naver.client.id=OTyxDqON1vBk6NAeWJds
+naver.client.secret=E0SX2lqmC8
+
+#server:
+#  port: 80
+#
+#naver:
+#  url:
+#    search:
+#      local: https://openapi.naver.com/v1/search/local.json
+#      iamge: https://openapi.naver.com/v1/search/image
+#  client:
+#    id: OTyxDqON1vBk6NAeWJds
+#    secret: E0SX2lqmC8
