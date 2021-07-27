@@ -1,6 +1,5 @@
 package com.example.restaurant.wishlist.service;
 
-import com.example.restaurant.naver.NaverClient;
 import com.example.restaurant.wishlist.dto.WishListDto;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
